@@ -12,6 +12,7 @@ Welcome to the **Retured YouTube Code Vault**—the central hub for every script
 | Folder | Corresponding Video | Brief | Level |
 | ------ | ------------------- | ----- | ----- |
 | `Optimization` | *What Is Optimization* | Basic Python scripting  | Beginner |
+| `Optimization` | *What Is Loss Function?* | Python script to plot and visualize loss functions  | Beginner |
 | … | … | … | … |
 
 Each folder contains:
